@@ -53,9 +53,9 @@ fun_fact:   "I think I am a good writer"
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Portfolio Forge**](https://shaikhshahnawaz13.github.io/portfolio) | Personal portfolio with animated UI | HTML · CSS · JS |
-| [**NAFRI**](#) | Luxury perfume brand — multi-page site | HTML · CSS · JS |
-| [**Pluton AI**](#) | AI chatbot PWA deployed on Google Cloud Run | JS · Google AI Studio · GCP |
+| [**Portfolio**](https://shaikhshahnawaz13.github.io/portfolio) | Animated portfolio — particle bg, magnetic cursor, scroll-triggered animations | HTML · CSS · JS |
+| [**NAFRI**](#) | Luxury perfume brand — multi-page immersive website | HTML · CSS · JS |
+| [**Pluton AI**](#) | AI-powered chatbot PWA, deployed on Google Cloud Run | JS · Google AI Studio · GCP |
 
 ---
 
