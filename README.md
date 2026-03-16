@@ -64,12 +64,21 @@ fun_fact:   "I think I am a good writer"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shaikhshahnawaz13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshahnawaz13&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaikhshahnawaz13&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shaikhshahnawaz13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=shaikhshahnawaz13&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshahnawaz13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=500"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
