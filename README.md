@@ -53,9 +53,10 @@ fun_fact:   "I think I am a good writer"
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Portfolio**](https://shaikhshahnawaz13.github.io/portfolio) | Animated portfolio — particle bg, magnetic cursor, scroll-triggered animations | HTML · CSS · JS |
-| [**NAFRI**](#) | Luxury perfume brand — multi-page immersive website | HTML · CSS · JS |
-| [**Pluton AI**](#) | AI-powered chatbot PWA, deployed on Google Cloud Run | JS · Google AI Studio · GCP |
+| [**GitHawk**](#) | GitHub profile analyzer — deep insights, stats & visual breakdowns | HTML · CSS · JS |
+| [**PortfolioForge**](https://shaikhshahnawaz13.github.io/portfolioforge/) | Upload your resume → AI forges a full portfolio site in seconds. 4 AI providers, live preview, ZIP download | HTML · CSS · JS · Groq · Gemini |
+| [**Skye**](https://shaikhshahnawaz13.github.io/skye-weather) | Real-time weather dashboard with Neumorphic UI, physics-based water ripple cursor & canvas wave graphs | HTML · CSS · JS · OpenWeatherMap |
+| [**OtakuVault**](#) | Anime discovery & tracking app for the real ones 🔥 | HTML · CSS · JS |
 
 ---
 
