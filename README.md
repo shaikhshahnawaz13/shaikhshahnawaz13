@@ -4,7 +4,7 @@
 
 <br/>
 
-**`BSc IT · Frontend Dev · Building in public`**
+**`BSc IT · Full-Stack Dev · Building in public`**
 
 <br/>
 
