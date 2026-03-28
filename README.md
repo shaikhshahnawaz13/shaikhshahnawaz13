@@ -30,7 +30,7 @@
 
 <div align="center">
 
-BSc IT &nbsp;·&nbsp; Akbar Peerbhoy College &nbsp;·&nbsp; University of Mumbai &nbsp;·&nbsp; Mumbai, India
+BSc IT · Akbar Peerbhoy College · University of Mumbai &nbsp;·&nbsp; Mumbai, India
 
 Focused on Full-Stack Development, AI Integration, and Developer Tooling.
 Into Web Dev, Automation, and Dark Fantasy Writing.
@@ -124,22 +124,6 @@ Resume → deployable portfolio in 30 seconds. Upload PDF or DOCX, describe the 
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhshahnawaz13&theme=react-dark&hide_border=true&bg_color=0d1117&color=F5C400&line=F5C400&point=e6edf3&area=true&area_color=F5C40020&radius=4" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### visit my interactive page
-
-particle field on top &nbsp;·&nbsp; snake game below &nbsp;·&nbsp; all in one
-
-[![Open Interactive Page](https://img.shields.io/badge/▶%20OPEN%20INTERACTIVE%20PAGE-%230d1117?style=for-the-badge&labelColor=0d1117&color=21262d&logoColor=F5C400)](https://shaikhshahnawaz13.github.io/shahnawaz)
 
 </div>
 
